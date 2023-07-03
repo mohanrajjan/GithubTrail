@@ -4,6 +4,7 @@ public class MYFirst {
 	public void check(){
 		System.out.println("code1");
 		System.out.println("code2");
+		System.out.println("code3");
 	}
 public static void main(String[] args) {
 	MYFirst jj = new MYFirst();
